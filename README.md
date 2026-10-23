@@ -4,7 +4,7 @@ An unfinished exploration of player movement prediction using tracking data from
 
 [![Twelve selected predicted-versus-recorded player trajectories](assets/trajectory-examples.png)](assets/trajectory-examples.png)
 
-*Selected examples from the prototype: red shows predicted movement and green shows recorded movement. These examples were selected for smooth predicted path shapes, not prediction accuracy. Position and continuity errors remain; this is not a representative evaluation or a finished competition solution. Click the image to view it at full resolution.*
+*Selected examples from the prototype: red shows predicted movement and green shows recorded movement. These examples were selected for smooth predicted path shapes and proximity to recorded movement, not prediction accuracy. Position and continuity errors remain; this is not a representative evaluation or a finished competition solution. Click the image to view it at full resolution.*
 
 ## Full trajectory gallery
 
