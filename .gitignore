@@ -1,0 +1,15 @@
+*.csv
+*.zip
+*.pth
+*.pt
+train/
+nfl-2026/
+data/
+models/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
