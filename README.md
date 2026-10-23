@@ -1,6 +1,6 @@
 # NFL player trajectory experiments
 
-An unfinished exploration of player movement prediction using tracking data from the NFL Big Data Bowl 2026. I experimented with temporal transformers and graph neural networks, generated predicted paths, and compared them visually with recorded movement.
+An unfinished exploration of player movement prediction using tracking data from [NFL Big Data Bowl 2026 — Prediction](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction). I experimented with temporal transformers and graph neural networks, generated predicted paths, and compared them visually with recorded movement.
 
 [![Twelve selected predicted-versus-recorded player trajectories](assets/trajectory-examples.png)](assets/trajectory-examples.png)
 
@@ -26,7 +26,7 @@ This was an exploration of spatial and temporal relationships in sports. It uses
 
 ## Viewing and running
 
-The image and saved notebook plots can be viewed without training. To explore the code locally, install Jupyter, PyTorch, NumPy, pandas, scikit-learn, and matplotlib. Obtain the NFL Big Data Bowl 2026 prediction data separately through Kaggle and check each notebook's local data paths before running it.
+The image and saved notebook plots can be viewed without training. To explore the code locally, install Jupyter, PyTorch, NumPy, pandas, scikit-learn, and matplotlib. Obtain the [competition data from Kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction/data) separately and check each notebook's local data paths before running it.
 
 These are experimental notebooks, not a packaged or fully reproducible pipeline. The repository excludes datasets, model weights, and generated submission files. The notebooks have not been rerun for this presentation.
 
